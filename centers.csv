@@ -1,0 +1,34 @@
+center_id,center_name,city,postal_code,region,opening_date,surface_m2,equipment_count
+CTR001,HealthTrack Paris 1,Paris,75001,Île-de-France,25/05/2020,427,100
+CTR002,HealthTrack Paris 2,Paris,75001,Île-de-France,2022-10-31,482,66
+CTR003,HealthTrack Paris 1,Paris,75015,Île-de-France,29/07/2020,586,88
+CTR004,HealthTrack Paris 2,Paris,75015,Île-de-France,2022-03-29,556,23
+CTR005,HealthTrack Paris 1,Paris,75020,Île-de-France,15/06/2026,900,53
+CTR006,HealthTrack Paris 2,Paris,75020,Île-de-France,2023-08-10,813,50
+CTR007,HealthTrack Lyon 1,Lyon,69001,Auvergne-Rhône-Alpes,21/03/2024,453,38
+CTR008,HealthTrack Lyon 1,Lyon,69003,Auvergne-Rhône-Alpes,2021-09-11,830,76
+CTR009,HealthTrack Lyon 1,Lyon,69007,Auvergne-Rhône-Alpes,06/07/2022,615,48
+CTR010,HealthTrack Marseille 1,Marseille,13001,Provence-Alpes-Côte d'Azur,2021-07-31,5,64
+CTR011,HealthTrack Marseille 2,Marseille,13001,Provence-Alpes-Côte d'Azur,16/02/2023,699,37
+CTR012,HealthTrack Marseille 1,Marseille,13008,Provence-Alpes-Côte d'Azur,2023-07-14,424,88
+CTR013,HealthTrack Marseille 1,Marseille,13015,Provence-Alpes-Côte d'Azur,12/06/2020,873,25
+CTR014,HealthTrack Marseille 2,Marseille,13015,Provence-Alpes-Côte d'Azur,2024-01-24,789,34
+CTR015,HealthTrack Toulouse 1,Toulouse,31000,Occitanie,24/02/2023,100000,92
+CTR016,HealthTrack Toulouse 2,Toulouse,31000,Occitanie,2023-02-11,847,70
+CTR017,HealthTrack Toulouse 1,Toulouse,31200,Occitanie,27/03/2023,831,65
+CTR018,HealthTrack Toulouse 2,Toulouse,31200,Occitanie,2021-09-08,372,83
+CTR019,HealthTrack Nice 1,Nice,06000,Provence-Alpes-Côte d'Azur,30/12/2020,498,57
+CTR020,HealthTrack Nice 2,Nice,75008,Provence-Alpes-Côte d'Azur,2023-08-17,461,62
+CTR021,HealthTrack Nice 1,Nice,06100,Provence-Alpes-Côte d'Azur,08/02/2021,816,75
+CTR022,HealthTrack Nantes 1,Nantes,44000,Pays de la Loire,2021-10-15,958,60
+CTR023,HealthTrack Nantes 1,Nantes,44100,Pays de la Loire,12/05/2020,771,46
+CTR024,HealthTrack Strasbourg 1,Strasbourg,67000,Grand Est,2023-10-22,938,53
+CTR025,HealthTrack Strasbourg 2,Strasbourg,67000,Grand Est,11/12/2020,710,39
+CTR026,HealthTrack Montpellier 1,Montpellier,34000,Occitanie,2023-08-13,945,100
+CTR027,HealthTrack Montpellier 2,Montpellier,34000,Occitanie,16/05/2022,404,93
+CTR028,HealthTrack Bordeaux 1,Bordeaux,33000,Nouvelle-Aquitaine,2021-08-23,525,53
+CTR029,HealthTrack Bordeaux 2,Bordeaux,33000,Nouvelle-Aquitaine,27/11/2022,683,41
+CTR030,HealthTrack Bordeaux 1,Bordeaux,33200,Nouvelle-Aquitaine,2021-12-31,836,53
+CTR031,HealthTrack Lille 1,Lille,59000,Hauts-de-France,19/11/2023,954,20
+CTR032,HealthTrack Rennes 1,Rennes,35000,Bretagne,2021-08-11,374,36
+CTR033,HealthTrack Reims 1,Reims,51100,Grand Est,12/07/2021,799,86
